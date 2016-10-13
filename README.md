@@ -1,3 +1,3 @@
 # new
-Testing github as a started
+Testing github as a starter
 #added a new line
